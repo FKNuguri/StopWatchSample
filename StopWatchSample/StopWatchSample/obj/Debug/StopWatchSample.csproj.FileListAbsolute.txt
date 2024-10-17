@@ -1,0 +1,11 @@
+G:\04_Programming\C#\StopWatchSample\StopWatchSample\StopWatchSample\bin\Debug\StopWatchSample.exe.config
+G:\04_Programming\C#\StopWatchSample\StopWatchSample\StopWatchSample\bin\Debug\StopWatchSample.exe
+G:\04_Programming\C#\StopWatchSample\StopWatchSample\StopWatchSample\bin\Debug\StopWatchSample.pdb
+G:\04_Programming\C#\StopWatchSample\StopWatchSample\StopWatchSample\obj\Debug\StopWatchSample.csproj.AssemblyReference.cache
+G:\04_Programming\C#\StopWatchSample\StopWatchSample\StopWatchSample\obj\Debug\StopWatchSample.csproj.SuggestedBindingRedirects.cache
+G:\04_Programming\C#\StopWatchSample\StopWatchSample\StopWatchSample\obj\Debug\StopWatchSample.Form1.resources
+G:\04_Programming\C#\StopWatchSample\StopWatchSample\StopWatchSample\obj\Debug\StopWatchSample.Properties.Resources.resources
+G:\04_Programming\C#\StopWatchSample\StopWatchSample\StopWatchSample\obj\Debug\StopWatchSample.csproj.GenerateResource.cache
+G:\04_Programming\C#\StopWatchSample\StopWatchSample\StopWatchSample\obj\Debug\StopWatchSample.csproj.CoreCompileInputs.cache
+G:\04_Programming\C#\StopWatchSample\StopWatchSample\StopWatchSample\obj\Debug\StopWatchSample.exe
+G:\04_Programming\C#\StopWatchSample\StopWatchSample\StopWatchSample\obj\Debug\StopWatchSample.pdb
